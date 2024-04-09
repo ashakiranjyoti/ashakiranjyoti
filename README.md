@@ -11,7 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-🔭 I am honing my dev and python skills.
-🌱 I am currently learning Python/Django
-👯 I’m looking to collaborate in web dev projects
-💬 Ask me About Web development and Web Technolgies.
+
