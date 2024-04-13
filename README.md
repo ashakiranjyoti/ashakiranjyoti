@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashakiranjyoti
 - 🔭 I am honing my dev and java skills.
-- 🌱 I am currently learning java/Springboot 
+- 🌱 I am currently learning java/Springboot
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: ashakirandjoti5501@gmail.com
