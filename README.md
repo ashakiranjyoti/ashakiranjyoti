@@ -42,7 +42,6 @@
 
 ### 💡 Fun Fact
 I created a configurable project with **real-time monitoring** and **SVG dashboards** for pump systems—coded to work with **no changes across multiple sites!**
-I 
 
 
 ### 💡 Github Stats & Trophies
