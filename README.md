@@ -36,7 +36,7 @@
 
 - 💌 Email: ashakirandjoti5501@gmail.com
 
-- 💼 HackerRank: 
+
 
 ---
 
