@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashakiran D Jyoti
+# 👋 Hi, I’m Ashakiran Dili Jyoti
 
 💻 I’m a passionate Full Stack Developer with **2 years of experience** in building dynamic and responsive web applications.
 
