@@ -19,7 +19,7 @@
 
 ### 🚀 Currently Learning
 
-- 🔄 Java Spring Spring Boot
+- 🔄 Java, Spring, Spring Boot
 - 🌐 REST APIs, Hibernate
 - 🛠️ Building scalable Java applications
 
