@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Currently Lear
+### 🚀 Currently 
 
 - 🔄 Java & Spring Boot
 - 🌐 REST APIs, Hibernate
