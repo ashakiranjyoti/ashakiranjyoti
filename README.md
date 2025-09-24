@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Currently 
+### 🚀 Current
 
 - 🔄 Java & Spring Boot
 - 🌐 REST APIs, Hibernate
