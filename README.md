@@ -17,7 +17,6 @@
 
 ---
 
-### 
 
 - 🔄 Java & Spring Boot
 - 🌐 REST APIs, Hibernate
