@@ -34,7 +34,7 @@
 ### 📬 Let's Connect
 
 - 💌 Email: ashakirandjoti5501@gmail.com
-- 💌 
+  
   
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashakiran-jyoti-b3489b252/)
