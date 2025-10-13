@@ -49,5 +49,3 @@ I created a configurable project with **real-time monitoring** and **SVG dashboa
 ### 💡 Github Stats & Trophies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashakiranjyoti&show_icons=true&theme=tokyonight)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ashakiranjyoti&theme=dracula)
-
-
