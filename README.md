@@ -47,7 +47,7 @@ I'm a passionate **Backend Developer** with **2+ years of experience** specializ
 ### 🏢 MCOM Technology | Software Engineer
 **June 2024 - Present**
 
-- Developed **3 production-grade ERP systems** including a **government project (Amrut 2.0)**
+- Developed **3 production-grade ERP systems** including a **government infrastructure project**
 - Built **Material Management** module with real-time stock calculations serving live operations
 - Created **Infrastructure Asset Management** system with GPS tracking and audit trails
 - Implemented **SCADA-integrated monitoring** for 50+ remote water supply sites
@@ -103,7 +103,7 @@ I'm a passionate **Backend Developer** with **2+ years of experience** specializ
 ---
 
 ### 🌊 SCADA Monitoring & Control System
-> **Government Project - Amrut 2.0** | Real-time industrial monitoring
+> **Government Project - government infrastructure project** | Real-time industrial monitoring
 
 **Features:**
 - Real-time telemetry from 50+ remote sites
@@ -139,7 +139,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 ## 🌟 Highlights
 
 - 🏆 **3 Production Systems** delivered in 1.6 years
-- 🏛️ **Government Project** (Amrut 2.0) - 50+ sites monitoring
+- 🏛️ **Government Project** (government infrastructure project) - 50+ sites monitoring
 - 📈 **Performance Optimization** - 5-6s to 1-2s dashboard load time
 - 🔐 **Enterprise Security** - Role-based access, audit trails, compliance
 - 📊 **Complex Reporting** - Multi-dimensional analysis, PDF/Excel exports
