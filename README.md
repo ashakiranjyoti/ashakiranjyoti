@@ -193,7 +193,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Contribute to open-source ERP projects
 - [ ] Master Laravel framework
