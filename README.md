@@ -2,7 +2,7 @@
 
 ## 💻 Backend Developer | ERP Solution
 
-I'm a passionate **Backend Developer** with **2+ years of experience** specializing in **ERP modules**, **Inventory Management**, and **Real-time Monitoring Systems**. I build production-grade enterprise applications with robust business logic and comprehensive audit capabilities.
+I'm a passionate **Backend Developer** with **1.5 years of experience** specializing in **ERP modules**, **Inventory Management**, and **Real-time Monitoring Systems**. I build production-grade enterprise applications with robust business logic and comprehensive audit capabilities.
 
 ---
 
