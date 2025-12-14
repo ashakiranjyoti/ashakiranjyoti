@@ -114,7 +114,7 @@ I'm a passionate **Backend Developer** with **1.5 years of experience** speciali
 
 **Tech:** PHP, MS SQL Server (ODBC), AJAX, Bootstrap, dompdf, Windows Services
 
-🔗 [View Repository](#) | 🏛️ Government Project
+ 🏛️ Government Project
 
 ---
 
