@@ -165,7 +165,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ---
 
-## 🏆 GitHub Trophies
 
 
 
