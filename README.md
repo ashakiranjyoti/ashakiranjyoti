@@ -167,7 +167,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashakiranjyoti&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 ---
 
