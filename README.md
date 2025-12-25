@@ -193,7 +193,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 - [ ] Master Laravel framework
 - [ ] Build and deploy 2 more production systems
 - [ ] Explore microservices architecture
-- [ ] Share knowledge through technical blogs
+s
 
 ---
 
