@@ -192,8 +192,8 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 - [ ] Contribute to open-source ERP projects
 - [ ] Master Laravel framework
 - [ ] Build and deploy 2 more production systems
-- [ ] Explore microservices architecture
-s
+- [ ] Explore microservices 
+
 
 ---
 
