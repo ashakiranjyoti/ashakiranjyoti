@@ -187,13 +187,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ---
 
-## 🎯 2026 Goals
-
-
-
-
-
-
 
 ---
 
