@@ -193,6 +193,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 **💡 "Building enterprise solutions one commit at a time"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashakiranjyoti&color=blueviolet&style=for-the-badge)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=ashakiranjyoti&color=blueviolet&style=for-the-badge)-->
 
 </div>
