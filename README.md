@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashakiran Jyoti
 
-## 💻 Backend Developer | 
+## 💻 Backend Developer 
 
 I'm a passionate **Backend Developer** with **1.7 years of experience** specializing in **ERP modules**, **Inventory Management**, and **Real-time Monitoring Systems**. I build production-grade enterprise applications with robust business logic and comprehensive audit capabilities.
 
