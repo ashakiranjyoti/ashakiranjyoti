@@ -12,7 +12,7 @@ I'm a passionate **Backend Developer** with **1.7 years of experience** speciali
 - 📊 **Real-time Monitoring** - SCADA Integration, IoT Systems, Live Dashboards
 - 🏛️ **Enterprise Applications** - Government Projects, Manufacturing Systems, Critical Infrastructure
 - 📈 **Business Intelligence** - MIS Reports, Data Visualization, Analytics
-- 🔐 **Secure Systems** - Authentication, Role-based Access, Audit
+- 🔐 **Secure Systems** - Authentication, Role-based Access, 
 
 ---
 
