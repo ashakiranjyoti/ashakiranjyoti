@@ -8,7 +8,7 @@ I'm a passionate **Backend Developer** with **1.7 years of experience** speciali
 
 ## 🚀 What I Do
 
-- 🏗️ **ERP Module Development** - Inventory Management, Asset Tracking, Procurement Systems
+- 🏗️ **ERP Module Development** - Inventory Management, Asset Tracking, Procurement Systems.
 - 📊 **Real-time Monitoring** - SCADA Integration, IoT Systems, Live Dashboards
 - 🏛️ **Enterprise Applications** - Government Projects, Manufacturing Systems, Critical Infrastructure
 - 📈 **Business Intelligence** - MIS Reports, Data Visualization, Analytics
