@@ -260,7 +260,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 - 📋 **200+ Manual Test Cases** designed and executed
 - 🐛 **100+ Bugs** identified and resolved before production
 - ⏱️ **70% Reduction** in regression testing time through automation
-- 🏛️ **Government Project** - Critical infrastructure monitoring (50+ sites, 24/7 operations)
 - ⚡ **5x Performance Improvement** - Optimized dashboard queries
 - 🔐 **Zero Critical Bugs** in production after implementing automation
 - 📊 **Complete SDLC Ownership** - Requirements to deployment
@@ -278,7 +277,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 ✅ **Production Experience** - 3 live systems with real users  
 ✅ **Quality Mindset** - Zero critical bugs through rigorous testing  
 ✅ **Fast Learner** - Self-taught automation in parallel with development  
-✅ **Team Player** - Collaborate with cross-functional teams effectively
 
 **I bring the rare combination of:**
 - Understanding how applications are built (development)
@@ -328,5 +326,5 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 **💻 "Building quality software through code and comprehensive testing"**
 
 </div>
-```
+
 
