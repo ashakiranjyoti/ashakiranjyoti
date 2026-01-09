@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Developer | QA Automation Engineer
 
-**Full-Stack Developer** and **QA Automation Engineer** with **1.7 years of professional experience** in building and testing enterprise applications. I specialize in developing robust ERP systems while ensuring quality through comprehensive manual and automated testing.
+**Full-Stack Developer** and **QA Automation Engineer** with **professional experience** in building and testing enterprise applications. I specialize in developing robust ERP systems while ensuring quality through comprehensive manual and automated testing.
 
 **🎯 Expertise:** Full-Stack Development | Manual Testing | Test Automation (Playwright + JS/TS)  
 **💡 Specialization:** ERP Systems, Enterprise Applications, End-to-End Quality Assurance
