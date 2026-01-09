@@ -183,8 +183,6 @@
 
 **Technologies:** PHP, MS SQL Server, JavaScript, Playwright (JS/TS), AJAX, dompdf
 
-🔗 [View Code](#) | 🤖 [View Automation](#) | 🏛️ Government Project
-
 ---
 
 ### 🛒 Additional Test Automation Projects
