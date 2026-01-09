@@ -50,7 +50,7 @@
 ## 💼 Professional Experience
 
 ### 🏢 MCOM Technology | Software Engineer
-**June 2024 - Present (1.7 years)**
+**June 2024 - Present**
 
 **Development:**
 - 🏗️ Developed **3 production-grade ERP systems** serving live operations
