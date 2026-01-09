@@ -116,8 +116,6 @@
 
 **Technologies:** PHP, MySQL, JavaScript, Playwright (JS/TS), Chart.js, TCPDF
 
-🔗 [View Code](#) | 🤖 [View Automation](#) | 📊 [Test Report](#)
-
 ---
 
 ### 🏗️ Infrastructure Asset Management - Full-Stack + Automation
@@ -154,8 +152,6 @@
 - Performance testing for bulk operations
 
 **Technologies:** PHP, MySQL, JavaScript, Playwright (JS/TS), OpenStreetMap, TCPDF
-
-🔗 [View Code](#) | 🤖 [View Automation](#) | 📊 [Test Report](#)
 
 ---
 
