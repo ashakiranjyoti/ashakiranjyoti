@@ -309,7 +309,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 ## 🌟 Key Achievements
 
 - 🏆 **3 Production Systems** delivered (SCADA + 2 ERP systems) with 99%+ uptime
-- 🌊 **Government SCADA Project** - Monitoring 50+ water supply stations 24/7
+- 🌊 **SCADA Project** - Monitoring 50+ water supply stations 24/7
 - 🤖 **80+ Automated Test Scenarios** across multiple production systems
 - 📋 **200+ Manual Test Cases** designed and executed
 - 🐛 **100+ Bugs** identified and resolved before production
@@ -332,14 +332,14 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 ✅ **Complete Ownership** - Development, testing, deployment, maintenance  
 ✅ **Production Experience** - 3 live systems serving real users  
 ✅ **Quality Mindset** - Zero critical bugs through rigorous QA  
-✅ **Government Projects** - Experience with compliance and audit requirements  
+✅ **municipal operations Projects** - Experience with compliance and audit requirements  
 ✅ **Performance Optimization** - Proven ability to optimize slow systems
 
 **I bring the rare combination of:**
 - Building applications from requirements (development)
 - Understanding where bugs hide (testing mindset)
 - Automating efficiently (technical automation skills)
-- Working on critical infrastructure (SCADA/government projects)
+- Working on critical infrastructure (SCADA/municipal operations projects)
 
 ---
 
