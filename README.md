@@ -2,10 +2,10 @@
 
 ## 💻 Full-Stack Developer | QA Automation Engineer
 
-**Full-Stack Developer** and **QA Automation Engineer** with **1.7 years of professional experience** in building and testing enterprise applications. I specialize in developing robust ERP and SCADA systems while ensuring quality through comprehensive manual and automated testing.
+**Full-Stack Developer** and **QA Automation Engineer** with **professional experience** in building and testing enterprise applications. I specialize in developing robust ERP and SCADA systems while ensuring quality through comprehensive manual and automated testing.
 
 **🎯 Expertise:** Full-Stack Development | Manual Testing | Test Automation (Playwright + JS/TS)  
-**💡 Specialization:** ERP Systems, SCADA Integration, Real-time Monitoring, End-to-End Quality Assurance
+**💡 Specialization:** ERP Systems, Enterprise Applications SCADA Integration, Real-time Monitoring, End-to-End Quality Assurance
 
 ---
 
@@ -51,7 +51,7 @@
 ## 💼 Professional Experience
 
 ### 🏢 MCOM Technology | Software Engineer
-**June 2024 - Present (1.7 years)**
+**June 2024 - Present**
 
 **Development:**
 - 🏗️ Developed **production-grade systems** (ERP + SCADA) serving live operations
@@ -82,11 +82,11 @@
 
 ## 🎯 Development & Testing Portfolio
 
-### 🌊 SCADA Water Supply Monitoring System - Full-Stack + Automation
-> **municipal operations** | Real-time monitoring and control with comprehensive QA
+### 🌊 SCADA-based water supply monitoring and control web - Full-Stack + Automation
+> **Municipal Operations** | Real-time monitoring and control with comprehensive QA
 
 **Application Features:**
-- Real-time telemetry visualization for **100+ process variables** (P1-P139)
+- Real-time telemetry visualization for **100+ process variables**
 - Remote control operations: pump start/stop, valve open/close, dosing control
 - Live KPI monitoring: pump run hours, water consumption, energy usage, pump efficiency
 - Station-wise dashboards with status indicators and performance trends
