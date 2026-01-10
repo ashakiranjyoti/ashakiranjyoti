@@ -117,7 +117,7 @@
 - ✅ Alert and notification trigger validation
 - ✅ Report generation testing (PDF/Excel exports)
 - ✅ Performance testing (dashboard load time <2s verification)
-- ✅ Data integrity checks across LIVE/LOGS/DAYTOTAL tables
+- ✅ Data integrity checks
 - ✅ Windows service health monitoring
 
 **Testing Strategy:**
@@ -135,20 +135,17 @@
 
 **Technologies:** PHP, MS SQL Server (ODBC), AJAX, jQuery, Bootstrap, Playwright (JS/TS), dompdf, Windows Services
 
-🔗 [View Code](#) | 🤖 [View Automation](#) | 🏛️ Government Project
-
 ---
 
 ### 🏗️ Infrastructure Asset Management System - Full-Stack + Automation
-> **Production System** | Role-based tracking with GPS integration and comprehensive audit trails
+> **Production System** | Role-based tracking with audit trails
 
 **Application Features:**
 - **Multi-level Hierarchy:** Sites → Tubewells → LCS (Lift Control Stations)
 - **Daily Status Updates:** Track operational status with remarks and media attachments
 - **Media Management:** Upload and preview images/videos with modal gallery
 - **LCS Module:** Per-site LCS master, itemized status tracking, master notes with contributors
-- **GPS Integration:** Tubewell location tracking with coordinates
-- **Audit Trail:** Complete history tracking for compliance and government reporting
+- **Audit Trail:** Complete history tracking for compliance and municipal operations
 - **Role-based Access:** Admin/User permissions with session-based authentication
 - **Searchable Dashboard:** Multi-field search across sites, contractors, divisions
 
@@ -212,8 +209,6 @@
 
 **Technologies:** PHP, MySQL, HTML5/CSS3, JavaScript, Playwright (JS/TS), TCPDF
 
-🔗 [View Code](#) | 🤖 [View Automation](#) | 📊 [Test Report](#)
-
 ---
 
 ### 📦 Inventory & Material Management System - Full-Stack + Automation
@@ -244,9 +239,6 @@
 - ✅ Negative scenarios and edge cases
 
 **Technologies:** PHP, MySQL, JavaScript, Playwright (JS/TS), Chart.js, TCPDF
-
-🔗 [View Code](#) | 🤖 [View Automation](#) | 📊 [Test Report](#)
-
 ---
 
 ### 🛒 Additional Test Automation Projects
