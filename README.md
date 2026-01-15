@@ -7,7 +7,6 @@
 **🎯 Expertise:** Full-Stack Development | Manual Testing | Test Automation (Playwright + JS/TS)  
 **💡 Specialization:** ERP Systems, Enterprise Applications SCADA Integration, Real-time Monitoring, End-to-End Quality Assurance
 
----
 
 ## 🚀 What I Do
 
