@@ -326,7 +326,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ✅ **Full-Stack Developer** - Build complex applications from scratch  
 ✅ **SCADA Experience** - Real-time monitoring and industrial control systems  
-✅ **Manual Testing Expert** - Design comprehensive test strategies  
+✅ **Manual Testing Expert** - Design comprehensive test strategies 
 ✅ **Automation Engineer** - Scalable frameworks with Playwright + JS/TS  
 ✅ **Complete Ownership** - Development, testing, deployment, maintenance  
 ✅ **Production Experience** - 3 live systems serving real users  
