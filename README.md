@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashakiran Jyoti
 
-## 💻 Full-Stack Developer | QA Automation Engineer
+## 💻 Full-Stack Developer | SDET | QA Automation Engineer
 
 **Full-Stack Developer** and **QA Automation Engineer** with **professional experience** in building and testing enterprise applications. I specialize in developing robust ERP and SCADA systems while ensuring quality through comprehensive manual and automated testing.
 
