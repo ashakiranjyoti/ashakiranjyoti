@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** and **QA Automation Engineer** with **professional experience** in building and testing enterprise applications. I specialize in developing robust ERP and SCADA systems while ensuring quality through comprehensive manual and automated testing.
 
-**🎯 Expertise:** Full-Stack Development | Manual Testing | Test Automation (Playwright + JS / TS)  
+**🎯 Expertise:** Full-Stack Development | Manual Testing | Test Automation (Playwright + JS/TS)  
 **💡 Specialization:** ERP Systems, Enterprise Applications SCADA Integration, Real-time Monitoring, End-to-End Quality Assurance
 
 
