@@ -10,7 +10,7 @@
 
 ## 🚀 What I Do
 
-- 🏗️ **Full-Stack Development** - Build production-grade enterprise applications
+- 🏗️ **Full-Stack Development** - Build enterprise applications
 - 🌊 **SCADA Integration** - Real-time monitoring and industrial control systems
 - 🧪 **Manual Testing** - Design and execute comprehensive test strategies
 - 🤖 **Test Automation** - Create scalable automation frameworks with Playwright
@@ -314,7 +314,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 - 🐛 **100+ Bugs** identified and resolved before 
 - ⏱️ **70% Reduction** in regression testing time through automation
 - ⚡ **5x Performance Improvement** - Optimized queries from 5-6s to 1-2s
-- 🔐 **Zero Critical Bugs** in production through rigorous testing
 - 📊 **100+ Process Variables** monitored in real-time SCADA system
 - 🏗️ **Complete SDLC Ownership** - Requirements to deployment and maintenance
 
