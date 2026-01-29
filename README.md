@@ -358,7 +358,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 - 🌊 Built a **SCADA monitoring system (municipal operations)** monitoring **50+ water supply stations** with **100+ real-time process variables** and **1-2s dashboard load time**
 - 🏗️ Developed **role-based infrastructure asset management** system with GPS tracking, audit trails, and multi-dimensional reporting
 - 🤖 Created **reusable test automation framework** reducing regression testing across all projects by **70%**
-- 🐛 Achieved **zero critical production bugs** through comprehensive manual and automated testing
+- 🐛 Achieved **zero critical bugs** through comprehensive manual and automated testing
 - ⚡ Optimized high-latency SCADA queries through **strategic indexing and query restructuring**
 - 📊 Designed **preloaded dataset architecture** eliminating N+1 query problems in reporting
 - 🔐 Implemented **session-based authentication with role gating** and SQL injection protection
