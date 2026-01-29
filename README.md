@@ -53,7 +53,7 @@
 **June 2024 - Present**
 
 **Development:**
-- 🏗️ Developed **production-grade systems** (ERP + SCADA) serving live operations
+- 🏗️ Developed (ERP + SCADA) serving live operations
 - 🌊 Built **SCADA-based water supply monitoring** system (municipal operations)
 - 🏛️ Created **infrastructure asset management** audit trails
 - 📊 Designed **real-time dashboards** with live telemetry and remote control capabilities
@@ -137,7 +137,7 @@
 ---
 
 ### 🏗️ Infrastructure Asset Management System - Full-Stack + Automation
-> **Production System** | Role-based tracking with audit trails
+> Role-based tracking with audit trails
 
 **Application Features:**
 - **Multi-level Hierarchy:** Sites → Tubewells → LCS (Lift Control Stations)
@@ -211,7 +211,7 @@
 ---
 
 ### 📦 Inventory & Material Management System - Full-Stack + Automation
-> **Production ERP System** | Complete material lifecycle management with automation
+> **ERP System** | Complete material lifecycle management with automation
 
 **Application Features:**
 - Material request-to-issue workflow with multi-level approval system
@@ -307,11 +307,11 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 
 ## 🌟 Key Achievements
 
-- 🏆 **3 Production Systems** delivered (SCADA + 2 ERP systems) with 99%+ uptime
+- 🏆 **3 Systems** delivered (SCADA + 2 ERP systems) with 99%+ uptime
 - 🌊 **SCADA Project** - Monitoring 50+ water supply stations 24/7
-- 🤖 **80+ Automated Test Scenarios** across multiple production systems
+- 🤖 **80+ Automated Test Scenarios** across multiple systems
 - 📋 **200+ Manual Test Cases** designed and executed
-- 🐛 **100+ Bugs** identified and resolved before production
+- 🐛 **100+ Bugs** identified and resolved before 
 - ⏱️ **70% Reduction** in regression testing time through automation
 - ⚡ **5x Performance Improvement** - Optimized queries from 5-6s to 1-2s
 - 🔐 **Zero Critical Bugs** in production through rigorous testing
