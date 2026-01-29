@@ -328,7 +328,6 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
 ✅ **Manual Testing Expert** - Design comprehensive test strategies 
 ✅ **Automation Engineer** - Scalable frameworks with Playwright + JS/TS  
 ✅ **Complete Ownership** - Development, testing, deployment, maintenance  
-✅ **Production Experience** - 3 live systems serving real users  
 ✅ **Quality Mindset** - Zero critical bugs through rigorous QA  
 ✅ **municipal operations Projects** - Experience with compliance and audit requirements  
 ✅ **Performance Optimization** - Proven ability to optimize slow systems
