@@ -25,7 +25,7 @@
 ## 🧪 Testing Expertise
 
 - ✅ End-to-End Testing with Playwright (JS/TS)
-- ✅ API Testing using Postman
+- ✅ Basic API Testing using Postman
 - ✅ CI/CD Integration with GitHub Actions
 - ✅ Test Design Patterns - Page Object Model
 - ✅ Version Control with Git & GitHub
