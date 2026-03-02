@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-**Automation & Testing:** Playwright, JavaScript/TypeScript, API Testing (Postman / REST Assured)  
+**Automation & Testing:** Playwright, JavaScript/TypeScript, API Testing (Postman / REST Assured) 
 **Development & Tools:** Node.js, Git & GitHub  
 **CI/CD:** GitHub Actions  
 **Design Patterns:** Page Object Model (POM)
