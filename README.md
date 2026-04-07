@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a QA Automation Engineer with 2+ years of experience testing web applications. I have worked on two live systems — a government IoT/SCADA monitoring platform for municipal water infrastructure (confidential client), and an internal enterprise inventory management system.
+I'm a QA Automation Engineer with 2+ years of experience testing web applications. I have worked on two live systems — a government IoT/SCADA monitoring platform for municipal water infrastructure, and an internal enterprise inventory management system.
 
 My work covers the full testing lifecycle: writing and executing manual test cases, building Playwright automation frameworks using Page Object Model, raising and tracking bugs, and working within Agile/Scrum teams. I work with Git and GitLab CI daily as part of my workflow.
 
