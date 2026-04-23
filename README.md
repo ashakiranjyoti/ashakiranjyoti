@@ -1,58 +1,92 @@
 # Hi, I'm Ashakiran Jyoti 👋
 
-**QA Automation Engineer** — Playwright (JavaScript) · Manual Testing · GitLab CI
+**Junior QA Engineer** — Manual Testing · Playwright (JS & TS) · GitLab CI
 
 ---
 
 ## About Me
 
-I'm a QA Automation Engineer with 2+ years of experience testing web applications. I have worked on two live systems — a government IoT/SCADA monitoring platform for municipal water infrastructure, and an internal enterprise inventory management system.
+Junior QA Engineer with 2+ years of experience on two live production systems — **AMRUT 2.0**, a Government of India SCADA dashboard monitoring municipal water infrastructure across Indian cities, and an **Inventory Management System** for a manufacturing organisation.
 
-My work covers the full testing lifecycle: writing and executing manual test cases, building Playwright automation frameworks using Page Object Model, raising and tracking bugs, and working within Agile/Scrum teams. I work with Git and GitLab CI daily as part of my workflow.
+I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-day covers the full testing lifecycle: writing and executing manual test cases in Excel, raising detailed bug reports in GitLab, building Playwright automation scripts in JavaScript (POM framework), and participating in all Scrum ceremonies.
 
 ---
 
 ## Tech Stack
 
-**Test Automation:** Playwright (JavaScript), Page Object Model (POM), Data-Driven Testing, End-to-End Testing  
-**Manual Testing:** Functional, Regression, Smoke, Exploratory, Boundary Value Analysis, Negative Testing  
-**API Testing:** Playwright Request Context, Postman (REST API validation)  
-**CI/CD & Version Control:** Git, GitLab, GitLab CI (internal), GitHub Actions  
-**Databases:** MySQL, MS SQL Server (SQL queries for test data verification)  
-**Tools:** VS Code, npm, Playwright Trace Viewer, Excel (test documentation)  
-**Domain Knowledge:** IoT/SCADA systems, real-time data testing, role-based access control
+**Test Automation:** Playwright (JavaScript · TypeScript), Page Object Model, Data-Driven Testing, Custom Fixtures, Allure Reports  
+**Manual Testing:** Functional, Regression, Smoke, Sanity, Exploratory, Boundary Value Analysis, Equivalence Partitioning, RBAC Testing  
+**API Testing:** Playwright Request Context, Postman (REST API validation), Schema Validation, Multi-env Config  
+**CI/CD & Version Control:** Git, GitHub, GitLab, GitLab CI, GitHub Actions  
+**Databases:** MySQL, MS SQL Server  
+**Tools:** VS Code, Playwright Trace Viewer, Excel (test documentation)  
+**AI Workflow:** GitHub Copilot, Cursor AI, Windsurf, Claude, ChatGPT (sanitized prompts only — no real project data)
 
 ---
 
 ## Professional Experience
 
-**QA Automation Engineer — Modern Communication Technology, Pune** *(June 2024 – Present)*
+**Junior QA Engineer — Modern Communication Technology (MCOM), Pune** *(June 2024 – Present)*
 
-**Project 1 — Government IoT/SCADA Monitoring Platform** *(Confidential Client)*
-- Tested a real-time web application monitoring municipal water infrastructure — live sensor data from pump stations, OHT levels, valve states, and zone-level reporting for field operators
-- Designed and executed **150+ manual test cases** covering role-based access (Admin, Full Control, View-Only), live dashboard, satellite map, device configuration, reports, and alert management
-- Built a **Playwright automation suite** (JavaScript, POM) for login flows, role-based visibility, dashboard filters, report date validation, and device CRUD with conditional field logic
-- Found **6 high-severity bugs** — including OHT percentage calculating incorrectly for remote station types, location filter silently dropping across modules, and map navigation passing wrong station ID to control screen
-- Worked within an internal **GitLab CI pipeline** — pushed scripts via Git merge requests, debugged CI failures by reading job logs, fixed timing issues using `waitForResponse()` over arbitrary waits
+**AMRUT 2.0 — Government of India SCADA Dashboard**
+- Tested a live real-time web application monitoring water supply across Indian cities — 50+ pumping stations, live sensor data every 15–60 seconds, remote pump/valve controls, RBAC for field engineers and officers
+- Wrote and executed **150+ manual test cases** across 8 modules covering functional, regression, RBAC, integration, and exploratory testing
+- Built **50+ Playwright JS automation scripts** (POM) covering login flows, role-based visibility, dashboard filters, report exports, and device CRUD
+- Found **critical security bug** — View-Only users could see SCADA control buttons (RBAC failure)
+- Designed a real-time test protocol with the developer: inserting known sensor values so assertions were stable on live-updating dashboards
+- Worked within **GitLab CI pipeline** — strict Merge Request process, Senior QA Lead reviewed all scripts before merge
 
-**Project 2 — Internal Inventory Management System**
-- Performed manual and automation QA for an inventory platform covering inward/outward stock flows, shortage detection, supplier management, and reporting across a 3-level product hierarchy
-- Wrote and executed **120+ test cases**; cross-verified live stock calculations via SQL queries against UI-displayed values
-- Found a **critical data integrity bug** — outward module had no server-side quantity validation, stock could go negative; also found cascading dropdown reset failure causing mismatched database records
-- Built Playwright regression suite covering boundary value flows, shortage threshold tests, and master data CRUD
+**Inventory Management System — Manufacturing ERP** *(Internal)*
+- Performed manual and automation QA across 7 modules: inward/outward stock, shortage detection, supplier management, 3-level product hierarchy, PDF/Excel reports
+- Wrote and executed **150+ manual test cases**; cross-verified stock calculations via SQL queries against UI values
+- Found **critical data integrity bug** — outward module had no server-side quantity validation, stock could go negative (caught via Boundary Value Analysis at qty = available + 1) — **blocked the release**
+- Built **60+ Playwright JS regression scripts** covering boundary value flows, AJAX cascade dropdowns (`waitForResponse`), shortage thresholds, and master data CRUD
 
-**Technical Intern — QA · ITJOBXS** *(October 2023 – May 2024)*
-- Executed manual functional and regression testing; documented test cases in Excel and tracked bugs through resolution
-- Wrote foundational Playwright scripts for login validation; performed REST API testing via Playwright request context
+**Technical Intern — QA · IT JOBXS** *(October 2023 – May 2024)*
+- Tested security features: bot detection, spam prevention, Google reCAPTCHA integration end-to-end
+- Wrote test cases, executed functional testing, reported defects with developer collaboration
+
+---
+
+## Key Achievements
+
+| Metric | Detail |
+|---|---|
+| 300+ test cases | Across 3 projects — Excel suites covering all STLC phases |
+| 160+ automated tests | Playwright JS — login, RBAC, stock, SCADA, reports |
+| 15+ critical bugs | Including RBAC security flaw & negative-stock bug before release |
+| 70% regression time saved | 4–5 days/sprint → under 1 day via automation |
 
 ---
 
 ## Public Projects
 
-### [SauceDemo E-Commerce — Playwright Automation Framework](https://github.com/ashakiranjyoti/saucedemo-playwright)
-End-to-end Playwright framework (JavaScript, POM) automating the complete purchase journey across 5 user types using data-driven testing. Integrated with **GitHub Actions** CI for execution on every push.
+### [DemoBlaze — E2E Playwright Framework (TypeScript)](https://github.com/ashakiranjyoti/demoblaze_playwright_ts)
+Typed POM framework with Allure reports auto-published to GitHub Pages on every CI push. Covers login, products, cart, checkout — smoke + regression tagged suites, externalized test data.  
+📊 [Live Test Report](https://ashakiranjyoti.github.io/demoblaze_playwright_ts/)
 
-`Playwright` `JavaScript` `POM` `GitHub Actions` `Data-Driven Testing`
+`Playwright` `TypeScript` `POM` `Allure` `GitHub Actions`
+
+---
+
+### [SauceDemo — Cross-Browser Playwright Framework (TypeScript)](https://github.com/ashakiranjyoti/saucedemo-playwright-ts)
+Cross-browser framework (Chromium / Firefox / WebKit), typed page objects, externalized test data (JSON), CI with retries, screenshot + video on failure.
+
+`Playwright` `TypeScript` `Cross-Browser` `GitHub Actions` `Data-Driven`
+
+---
+
+### [ReqRes REST API Framework (TypeScript)](https://github.com/ashakiranjyoti/REQRES_API-TS)
+Typed API test framework with multi-environment config (DEV/QA switchable via env var), reusable typed assertion helpers. Covers GET, POST, PUT, DELETE with schema validation and negative testing.
+
+`Playwright Request Context` `TypeScript` `Multi-env` `Schema Validation` `GitHub Actions`
+
+---
+
+### [Site Track System — Playwright Automation (JavaScript)](https://github.com/ashakiranjyoti/SITE_TRACK_SYSTEM)
+60+ automated scripts covering a 3-level role-based field operations hierarchy (Sites → Tubewells → LCS), media upload edge cases, audit trails, and CRUD workflows.
+
+`Playwright` `JavaScript` `POM` `CRUD` `Security Testing`
 
 ---
 
@@ -67,4 +101,5 @@ Dr. Babasaheb Ambedkar Technological University, Lonere · 2019–2023 · CGPA: 
 
 📧 ashakirandjoti5501@gmail.com  
 📍 Pune, Maharashtra, India  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashakiran-jyoti-b3489b252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashakiran-jyoti-b3489b252)  
+[![GitHub](https://img.shields.io/badge/GitHub-ashakiranjyoti-333?style=flat&logo=github)](https://github.com/ashakiranjyoti)
