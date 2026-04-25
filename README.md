@@ -8,7 +8,7 @@
 
 Junior QA Engineer with 2+ years of experience on two live production systems — **AMRUT 2.0**, a Government of India SCADA dashboard monitoring municipal water infrastructure across Indian cities, and an **Inventory Management System** for a manufacturing organisation.
 
-I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-day covers the full testing lifecycle: writing and executing manual test cases in Excel, raising detailed bug reports in GitLab, building Playwright automation scripts in JavaScript (POM framework), and participating in all Scrum ceremonies.
+I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-day covers the full testing lifecycle: writing and executing manual test cases in Excel, raising detailed bug reports in GitLab, building Playwright automation scripts in JavaScript (POM framework), and participating in all Scrum ceremonies
 
 ---
 
@@ -40,7 +40,7 @@ I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-
 - Performed manual and automation QA across 7 modules: inward/outward stock, shortage detection, supplier management, 3-level product hierarchy, PDF/Excel reports
 - Wrote and executed **150+ manual test cases**; cross-verified stock calculations via SQL queries against UI values
 - Found **critical data integrity bug** — outward module had no server-side quantity validation, stock could go negative (caught via Boundary Value Analysis at qty = available + 1) — **blocked the release**
-- Built **60+ Playwright JS regression scripts** covering boundary value flows, AJAX cascade dropdowns (`waitForResponse`), shortage thresholds, and master data CRUD
+- Built **60+ Playwright JS regression scripts** covering boundary value flows, AJAX cascade dropdowns (`waitForResponse`), shortage thresholds, and master data CRUD.
 
 **Technical Intern — QA · IT JOBXS** *(October 2023 – May 2024)*
 - Tested security features: bot detection, spam prevention, Google reCAPTCHA integration end-to-end
