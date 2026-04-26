@@ -62,7 +62,7 @@ I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-
 ## Public Projects
 
 ### [DemoBlaze — E2E Playwright Framework (TypeScript)](https://github.com/ashakiranjyoti/demoblaze_playwright_ts)
-Typed POM framework with Allure reports auto-published to GitHub Pages on every CI push. Covers login, products, cart, checkout — smoke + regression tagged suites, externalized test data.  
+Typed POM framework with Allure reports auto-published to GitHub Pages on every CI push. Covers login, products, cart, checkout — smoke + regression tagged suites, externalized test data. 
 📊 [Live Test Report](https://ashakiranjyoti.github.io/demoblaze_playwright_ts/)
 
 `Playwright` `TypeScript` `POM` `Allure` `GitHub Actions`
