@@ -16,7 +16,7 @@ I work under a Senior QA Lead in a cross-functional Agile/Scrum team. My day-to-
 
 **Test Automation:** Playwright (JavaScript · TypeScript), Page Object Model, Data-Driven Testing, Custom Fixtures, Allure Reports  
 **Manual Testing:** Functional, Regression, Smoke, Sanity, Exploratory, Boundary Value Analysis, Equivalence Partitioning, RBAC Testing  
-**API Testing:** Playwright Request Context, Postman (REST API validation), Schema Validation, Multi-env Config  
+**API Testing:** Playwright Request Context, Postman (REST API validation), Schema Validation, Multi-env Config 
 **CI/CD & Version Control:** Git, GitHub, GitLab, GitLab CI, GitHub Actions  
 **Databases:** MySQL, MS SQL Server  
 **Tools:** VS Code, Playwright Trace Viewer, Excel (test documentation)  
