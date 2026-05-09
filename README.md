@@ -1,6 +1,6 @@
 # Hi, I'm Ashakiran Jyoti 👋
 
-**Junior QA Engineer** — Manual Testing · Playwright (JS & TS) · GitLab CI
+**Junior QA Automation Engineer** — Manual Testing · Playwright (JS & TS) · GitLab CI
 
 ---
 
