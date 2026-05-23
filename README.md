@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cfc&height=200&section=header&text=Ashakiran%20Jyoti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20QA%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cfc&height=200&section=header&text=Ashakiran%20Jyoti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=QA%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-> Junior QA Engineer with **3+ years** of experience on **live production systems** — a Government of India SCADA dashboard and an Enterprise Inventory Management System.
+> QA Automation Engineer with **3+ years** of experience on **live production systems** — a Government of India real-time monitoring dashboard and an Enterprise ERP platform.
 
 - 🔭 Currently working at **Modern Communication Technology (MCOM), Pune**
 - 🌱 Growing expertise in **TypeScript**, **API Testing**, and **CI/CD pipelines**
@@ -70,7 +70,7 @@
 
 **Reporting & Tools**
 
-![Allure](https://img.shields.io/badge/Allure%20Reports-F0405A?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure%20Reports-F0405A?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel%20Test%20Docs-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -86,26 +86,26 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Junior QA Automation Engineer — MCOM, Pune
+### 🏢 QA Automation Engineer — MCOM, Pune
 **June 2024 – Present**
 
 <details>
-<summary><b>🌊 AMRUT 2.0 — Government of India SCADA Dashboard</b> (click to expand)</summary>
+<summary><b>🌊 Government Smart Infrastructure Dashboard</b> (click to expand)</summary>
 
 <br/>
 
-> Live real-time web application monitoring water supply across Indian cities — 50+ pumping stations, sensor data every 15–60 seconds, remote pump/valve controls, RBAC for field engineers and officers.
+> Live real-time web application monitoring water supply infrastructure across Indian cities — 50+ pumping stations, sensor data every 15–60 seconds, remote pump/valve controls, RBAC for field engineers and officers.
 
 - ✅ Wrote & executed **150+ manual test cases** across 8 modules — functional, regression, RBAC, integration, exploratory
 - ⚡ Built **50+ Playwright JS scripts** (POM) — login flows, role-based visibility, dashboard filters, report exports, device CRUD
-- 🔴 **Critical Security Bug Found** — View-Only users could see SCADA control buttons (RBAC failure)
+- 🔴 **Critical Security Bug Found** — View-Only users could see control buttons (RBAC failure)
 - 🧠 Designed a real-time test protocol with the dev: inserting known sensor values for stable assertions on live-updating dashboards
-- 🔁 Worked inside **GitLab CI pipeline** with strict MR process and Senior QA Lead review
+- 🔁 Worked inside **GitLab CI pipeline** with strict MR process and QA Lead review
 
 </details>
 
 <details>
-<summary><b>📦 Inventory Management System — Manufacturing ERP</b> (click to expand)</summary>
+<summary><b>📦 Enterprise Inventory Management System (ERP)</b> (click to expand)</summary>
 
 <br/>
 
@@ -119,7 +119,7 @@
 
 ---
 
-### 🏢 Technical Intern — QA · IT JOBXS
+### 🏢 Quality Assurance Intern — IT JOBXS
 **May 2023 – May 2024**
 
 - 🔐 Tested security features: bot detection, spam prevention, Google reCAPTCHA integration E2E
@@ -202,7 +202,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere · 2019–2023 · **CGPA
 
 <br/>
 
-*Open to QA Automation opportunities — Pune & Remote*
+*Open to QA Automation opportunities — Pune, Remote & Hybrid*
 
 </div>
 
