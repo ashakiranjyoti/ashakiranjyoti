@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Playwright+%7C+TypeScript+%7C+JavaScript;Manual+%2B+Automation+QA+Engineer;Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;3%2B+years+on+live+production+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Playwright+%7C+TypeScript+%7C+JavaScript;Manual+%2B+Automation+QA+Engineer;Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;3%2B+years+shipping+quality+software)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,17 +19,17 @@
 
 ## 🧑‍💻 About Me
 
-> QA Automation Engineer with **3+ years** of experience on **live production systems** — a Government of India real-time monitoring dashboard and an Enterprise ERP platform.
+> QA Automation Engineer with **3+ years** of experience working on real government and enterprise web apps — from SCADA dashboards to ERP systems.
 
 - 🔭 Currently working at **Modern Communication Technology (MCOM), Pune**
-- 🌱 Growing expertise in **TypeScript**, **API Testing**, and **CI/CD pipelines**
-- 🐛 Passionate about finding **critical bugs before users do**
-- 🤖 Actively using **AI tools** in my QA workflow (Copilot, Cursor, Claude)
-- 📫 Reach me at **ashakirandjoti5501@gmail.com**
+- 🌱 Growing into **TypeScript**, **API Testing**, and **CI/CD**
+- 🐛 I find the bugs before users do
+- 🤖 Using AI tools day-to-day — Copilot, Cursor, Claude
+- 📫 **ashakirandjoti5501@gmail.com**
 
 ---
 
-## 📊 Impact at a Glance
+## 📊 By the numbers
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
 ### 🏢 QA Automation Engineer — MCOM, Pune
 **June 2024 – Present**
@@ -94,25 +94,25 @@
 
 <br/>
 
-> Live real-time web application monitoring water supply infrastructure across Indian cities — 50+ pumping stations, sensor data every 15–60 seconds, remote pump/valve controls, RBAC for field engineers and officers.
+> A real-time web app monitoring water supply across Indian cities — 50+ pumping stations, live sensor data every 15–60 seconds, remote controls, and role-based access for field engineers and officers.
 
-- ✅ Wrote & executed **150+ manual test cases** across 8 modules — functional, regression, RBAC, integration, exploratory
+- ✅ Wrote & executed **150+ test cases** across 8 modules — functional, regression, RBAC, integration, exploratory
 - ⚡ Built **50+ Playwright JS scripts** (POM) — login flows, role-based visibility, dashboard filters, report exports, device CRUD
-- 🔴 **Critical Security Bug Found** — View-Only users could see control buttons (RBAC failure)
-- 🧠 Designed a real-time test protocol with the dev: inserting known sensor values for stable assertions on live-updating dashboards
-- 🔁 Worked inside **GitLab CI pipeline** with strict MR process and QA Lead review
+- 🔴 **Critical bug found** — View-Only users could see control buttons (RBAC failure)
+- 🧠 Figured out a testing approach for live-updating data: inserting known sensor values so assertions stayed stable
+- 🔁 Worked in **GitLab CI** with MR-based workflow and QA Lead reviews
 
 </details>
 
 <details>
-<summary><b>📦 Enterprise Inventory Management System (ERP)</b> (click to expand)</summary>
+<summary><b>📦 Enterprise Inventory Management System</b> (click to expand)</summary>
 
 <br/>
 
-> Internal ERP covering 7 modules: inward/outward stock, shortage detection, supplier management, 3-level product hierarchy, PDF/Excel reports.
+> An internal ERP covering 7 modules — inward/outward stock, shortage detection, supplier management, 3-level product hierarchy, and PDF/Excel exports.
 
-- ✅ Wrote & executed **150+ manual test cases**; cross-verified stock calculations via SQL against UI values
-- 🔴 **Critical Data Integrity Bug — Release Blocked** — Outward module had no server-side quantity validation; stock could go negative (caught via BVA at qty = available + 1)
+- ✅ Wrote & executed **150+ test cases**; verified stock calculations by running SQL queries against what the UI showed
+- 🔴 **Release-blocking bug found** — outward module had no server-side validation; stock could go negative (caught with BVA at qty = available + 1)
 - ⚡ Built **60+ Playwright JS regression scripts** — BVA flows, AJAX cascade dropdowns (`waitForResponse`), shortage thresholds, master data CRUD
 
 </details>
@@ -122,12 +122,12 @@
 ### 🏢 Quality Assurance Intern — IT JOBXS
 **May 2023 – May 2024**
 
-- 🔐 Tested security features: bot detection, spam prevention, Google reCAPTCHA integration E2E
-- 📝 Wrote test cases, executed functional testing, reported defects with developer collaboration
+- 🔐 Tested bot detection, spam prevention, and Google reCAPTCHA integration end-to-end
+- 📝 Wrote test cases, did functional testing, raised bugs with clear reproduction steps
 
 ---
 
-## 🚀 Public Projects
+## 🚀 Projects
 
 ### 🎭 [DemoBlaze — E2E Playwright Framework (TypeScript)](https://github.com/ashakiranjyoti/demoblaze_playwright_ts)
 
@@ -137,7 +137,7 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-> Typed POM framework with Allure reports **auto-published to GitHub Pages** on every CI push. Covers login, products, cart, checkout — smoke + regression tagged suites, externalized test data.
+> Typed POM framework — Allure reports **auto-published to GitHub Pages** on every CI push. Covers login, products, cart, checkout with smoke + regression suites and externalized test data.
 
 ---
 
@@ -147,7 +147,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Cross-Browser](https://img.shields.io/badge/-Cross--Browser-7c5cfc?style=flat-square&logoColor=white)
 
-> Cross-browser framework (Chromium / Firefox / WebKit), typed page objects, externalized test data (JSON), CI with retries, **screenshot + video on failure**.
+> Chromium / Firefox / WebKit — typed page objects, JSON test data, CI with retries, **screenshot + video on failure**.
 
 ---
 
@@ -157,7 +157,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-005571?style=flat-square&logoColor=white)
 
-> Typed API test framework with **multi-environment config** (DEV/QA switchable via env var), reusable typed assertion helpers. Covers GET, POST, PUT, DELETE with schema validation and negative testing.
+> Typed API tests with **multi-env config** (DEV/QA via env var), reusable assertion helpers. GET, POST, PUT, DELETE — schema validation and negative testing covered.
 
 ---
 
@@ -167,11 +167,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Security Testing](https://img.shields.io/badge/-Security%20Testing-E24B4A?style=flat-square&logoColor=white)
 
-> 60+ automated scripts covering a **3-level RBAC hierarchy** (Sites → Tubewells → LCS), media upload edge cases, audit trails, and CRUD workflows.
+> 60+ scripts — 3-level RBAC hierarchy (Sites → Tubewells → LCS), media upload edge cases, audit trails, full CRUD coverage.
 
 ---
 
-## 🧪 Testing Expertise
+## 🧪 Where I'm at
 
 ```
 Manual Testing       ████████████████████  Functional · Regression · Smoke · Sanity · Exploratory
@@ -202,7 +202,7 @@ Dr. Babasaheb Ambedkar Technological University, Lonere · 2019–2023 · **CGPA
 
 <br/>
 
-*Open to QA Automation opportunities — Pune, Remote & Hybrid*
+*Open to QA Automation roles — Pune, Remote & Hybrid*
 
 </div>
 
