@@ -179,7 +179,7 @@ Test Design          ████████████████░░░�
 Playwright           ████████████████████  POM · Custom Fixtures · Data-Driven · API Context
 TypeScript           █████████████░░░░░░░  Typed POMs · Interfaces · Generics (growing)
 API Testing          ████████████████░░░░  REST · Schema Validation · Multi-env Config
-CI/CD               █████████████░░░░░░░  GitLab CI · GitHub Actions · Allure Reports
+CI/CD                █████████████░░░░░░░  GitLab CI · GitHub Actions · Allure Reports
 SQL                  ████████████░░░░░░░░  MySQL · MS SQL Server · Cross-validation
 ```
 
