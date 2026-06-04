@@ -19,25 +19,13 @@
 
 ## 🧑‍💻 About Me
 
-> QA Automation Engineer with **3+ years** of experience working on real government and enterprise web apps — from SCADA dashboards to ERP systems.
+> QA Automation Engineer with **3+ years** of experience in Manual & Automation Testing across enterprise ERP and e-commerce systems.
 
 - 🔭 Currently working at **Modern Communication Technology (MCOM), Pune**
 - 🌱 Growing into **TypeScript**, **API Testing**, and **CI/CD**
 - 🐛 I find the bugs before users do
 - 🤖 Using AI tools day-to-day — Copilot, Cursor, Claude
 - 📫 **ashakirandjoti5501@gmail.com**
-
----
-
-## 📊 By the numbers
-
-<div align="center">
-
-| 🧪 300+ Manual Test Cases | ⚡ 160+ Automated Scripts | 🐛 15+ Critical Bugs | ⏱️ 70% Regression Time Saved |
-|:---:|:---:|:---:|:---:|
-| Across 3 projects — full STLC coverage | Playwright JS/TS — login, RBAC, stock, SCADA | Including RBAC security flaw & negative-stock bug | 4–5 days/sprint → under 1 day |
-
-</div>
 
 ---
 
@@ -55,12 +43,11 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Schema Validation](https://img.shields.io/badge/Schema%20Validation-7c5cfc?style=for-the-badge&logoColor=white)
 
 **CI/CD & Version Control**
 
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Databases**
@@ -71,8 +58,8 @@
 **Reporting & Tools**
 
 ![Allure](https://img.shields.io/badge/Allure%20Reports-F0405A?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20Test%20Docs-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **AI Workflow**
 
@@ -90,40 +77,43 @@
 **June 2024 – Present**
 
 <details>
-<summary><b>🌊 Government Smart Infrastructure Dashboard</b> (click to expand)</summary>
+<summary><b>📦 Order Management System (OMS)</b> (click to expand)</summary>
 
 <br/>
 
-> A real-time web app monitoring water supply across Indian cities — 50+ pumping stations, live sensor data every 15–60 seconds, remote controls, and role-based access for field engineers and officers.
+> Enterprise-grade OMS covering the full order lifecycle — order placement, tracking, fulfillment, and supply chain integration across e-commerce & retail domains.
 
-- ✅ Wrote & executed **150+ test cases** across 8 modules — functional, regression, RBAC, integration, exploratory
-- ⚡ Built **50+ Playwright JS scripts** (POM) — login flows, role-based visibility, dashboard filters, report exports, device CRUD
-- 🔴 **Critical bug found** — View-Only users could see control buttons (RBAC failure)
-- 🧠 Figured out a testing approach for live-updating data: inserting known sensor values so assertions stayed stable
-- 🔁 Worked in **GitLab CI** with MR-based workflow and QA Lead reviews
+- ✅ Prepared test scenarios from business requirements and executed Functional, Smoke, Sanity & Regression Testing
+- ⚡ Built Playwright JS automation scripts using POM structure covering critical order flows
+- 🔌 Tested REST APIs using Postman — validated request/response data and edge cases
+- 🐛 Raised defects in Jira with proper severity/priority and followed up for closure
+- 🔁 Participated in daily scrum, sprint ceremonies, and release validation activities
 
 </details>
 
 <details>
-<summary><b>📦 Enterprise Inventory Management System</b> (click to expand)</summary>
+<summary><b>📦 Inventory Management System</b> (click to expand)</summary>
 
 <br/>
 
-> An internal ERP covering 7 modules — inward/outward stock, shortage detection, supplier management, 3-level product hierarchy, and PDF/Excel exports.
+> A web app to manage stock movements — track inward/outward goods, monitor stock levels, raise low-stock alerts, and control access by role. Built with React + Node.js + MySQL.
 
-- ✅ Wrote & executed **150+ test cases**; verified stock calculations by running SQL queries against what the UI showed
-- 🔴 **Release-blocking bug found** — outward module had no server-side validation; stock could go negative (caught with BVA at qty = available + 1)
-- ⚡ Built **60+ Playwright JS regression scripts** — BVA flows, AJAX cascade dropdowns (`waitForResponse`), shortage thresholds, master data CRUD
+- ✅ Wrote and executed **150+ test cases** — Functional, Integration, Smoke & Regression across Stock-In, Stock-Out, Dashboard, Product Management, and RBAC modules
+- 🔴 **Critical bug found** — Stock-Out had no server-side validation; stock could go negative; caught using BVA at dispatch qty = available + 1
+- ⚡ Built **60+ Playwright JS automation scripts** — stock flow validations, AJAX dropdown handling, reorder alert triggers, CRUD operations
+- 🗄️ Validated stock calculations by running SQL queries directly against the database
+- 📊 Sent weekly test status reports and participated in defect triage discussions
 
 </details>
 
 ---
 
-### 🏢 Quality Assurance Intern — IT JOBXS
+### 🏢 QA Engineer — IT JOBXS
 **May 2023 – May 2024**
 
 - 🔐 Tested bot detection, spam prevention, and Google reCAPTCHA integration end-to-end
-- 📝 Wrote test cases, did functional testing, raised bugs with clear reproduction steps
+- 📝 Wrote test cases, executed functional & regression testing, raised bugs with clear reproduction steps
+- 🔌 Validated APIs using Postman
 
 ---
 
@@ -154,20 +144,10 @@
 ### ⚡ [ReqRes REST API Framework (TypeScript)](https://github.com/ashakiranjyoti/REQRES_API-TS)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ashakiranjyoti/REQRES_API-TS)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-005571?style=flat-square&logoColor=white)
 
 > Typed API tests with **multi-env config** (DEV/QA via env var), reusable assertion helpers. GET, POST, PUT, DELETE — schema validation and negative testing covered.
-
----
-
-### 🗺️ [Site Track System — Playwright Automation (JavaScript)](https://github.com/ashakiranjyoti/SITE_TRACK_SYSTEM)
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ashakiranjyoti/SITE_TRACK_SYSTEM)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Security Testing](https://img.shields.io/badge/-Security%20Testing-E24B4A?style=flat-square&logoColor=white)
-
-> 60+ scripts — 3-level RBAC hierarchy (Sites → Tubewells → LCS), media upload edge cases, audit trails, full CRUD coverage.
 
 ---
 
