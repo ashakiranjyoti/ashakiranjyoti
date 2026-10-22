@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cfc&height=200&section=header&text=Ashakiran%20Jyoti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=QA%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
