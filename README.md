@@ -93,7 +93,7 @@
 
 <details>
 <summary><b>📦 Inventory Management System</b> (click to expand)</summary>
-
+  
 <br/>
 
 > A web app to manage stock movements — track inward/outward goods, monitor stock levels, raise low-stock alerts, and control access by role. Built with React + Node.js + MySQL.
