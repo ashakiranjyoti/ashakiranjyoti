@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 > QA Automation Engineer with **3+ years** of experience in Manual & Automation Testing across enterprise ERP and e-commerce systems.
-
+> 
 - 🔭 Currently working at **Modern Communication Technology (MCOM), Pune**
 - 🌱 Growing into **TypeScript**, **API Testing**, and **CI/CD**
 - 🐛 I find the bugs before users do
